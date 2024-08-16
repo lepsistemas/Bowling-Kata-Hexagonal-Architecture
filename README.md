@@ -1,6 +1,6 @@
 # Minha Jornada para Ganhar em Dólar como Programador
 
-Material complementar do curso `Arquitetura Hexagonal: estendendo o Bowling Kata` lançado nas plataformas Udemy e Hormart.
+Material complementar do curso `Arquitetura Hexagonal: estendendo o Bowling Kata` lançado nas plataformas Udemy e Hotmart.
 
 ## Arquitetura Hexagonal: estendendo o Bowling Kata
 

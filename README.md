@@ -2,6 +2,6 @@
 
 ## Arquitetura Hexagonal: estendendo o Bowling Kata
 
-### [Aula 7 - Bowling Game Kata: Código](https://github.com/lepsistemas/Bowling-Kata-Hexagonal-Architecture/tree/main/aula-7)
+### [Aula 7 - Bowling Game Kata: Algoritmo](https://github.com/lepsistemas/Bowling-Kata-Hexagonal-Architecture/tree/main/aula-7)
 
-### [Aula 9 - Implementando os Casos de Uso](https://github.com/lepsistemas/Bowling-Kata-Hexagonal-Architecture/tree/main/aula-9)
+### [Aula 8 - Bowling Game Kata: Domínio](https://github.com/lepsistemas/Bowling-Kata-Hexagonal-Architecture/tree/main/aula-8)

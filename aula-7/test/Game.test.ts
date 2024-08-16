@@ -1,6 +1,7 @@
 import { beforeEach, it } from 'node:test';
-import { Game } from '../src/Game';
 import assert from 'node:assert';
+
+import { Game } from '../src/Game';
 
 let game: Game;
 beforeEach(() => {
